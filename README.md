@@ -1,4 +1,4 @@
-# Olá, eu sou o Massan! 👋
+# Olá, eu sou o LEVI! 👋
 
 ### Sobre mim
 
@@ -13,24 +13,6 @@
 - 📱  [GitHub](https://github.com/massancode?tab=repositories)
 
 
-### Veja alguns dos meus aplicativos para SmartPhone:
-  - [Nearby](https://github.com/massancode/Nearby)
-  - [Todo](https://github.com/massancode/toDo-React-Native)
-  - [IHere](https://github.com/massancode/Ihere)
-  - [GamePlay](https://github.com/massancode/App_Gameplay)
-
-### Veja algumas das minhas aplicações WEB:
-  - [Ports](https://github.com/massancode/ports)  
-  - [Top-Gyn](https://github.com/massancode/controle_de_academia_com_JS)  
-  
-
-- 🎮 [Itch.io] - Veja alguns dos meus jogos:
-  - [The Secret of Necromancer](https://itch.io/jam/piauindie-game-jam-2022/rate/1781891)
-  - [The Secret of the Joker](https://globalgamejam.org/games/2024/secret-joke-2)
-  - [The Secret of the Scale](https://galaticosstudio.itch.io/the-secret-of-the-scale)
-  - [The secrete of aaaãn](https://massandev.itch.io/the-secrete-of-aaan)
-
----
 
 ## Explore meus repositórios abaixo e descubra os projetos em que estou trabalhando! 🚀
 
